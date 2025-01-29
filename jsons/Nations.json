@@ -1,38 +1,47 @@
-[
-	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+{
+  "name": "SCHALE",
+  "leaderName": "Sensei",
+  "adjective": ["schale"],
+  "startBias": ["Avoid [Desert]", "Avoid [Tundra]"],
+  "preferredVictoryType": "Diplomatic",
+  "personality": "Sensei",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+  "startIntroPart1": "I am Sensei, advisor of the Independent Federal Investigation Club, SCHALE.",
+  "startIntroPart2": "Together with the General Student Council, we strive to unify Kivotos.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
-]
+  "declaringWar": "It seems we have no choice but to face each other. I’ll trust my students to handle this.",
+  "attacked": "I expected more from you. I hope you’re ready for what’s to come.",
+  "defeated": "I’ll have to depend on my students to help me recover from this.",
+  "introduction": "Ah, hello there! I’m Sensei of SCHALE. Let’s work together and see what we can accomplish.",
+
+  "neutralHello": "Hello! How are you today?",
+  "neutralLetsHearIt": ["Hmm?", "What is it?", "Go ahead, I'm listening."],
+  "neutralNo": ["I see, not today then.", "I’m afraid we can’t agree this time.", "Not at the moment."],
+  "neutralYes": ["Sounds good!", "Alright, let’s do it!", "Okay, I’m in!"],
+
+  "hateHello": "Is there something you need?",
+  "hateLetsHearIt": ["Hmm? What’s on your mind?", "Go on, I’m all ears.", "What’s the matter?"],
+  "hateNo": ["Not today, I’m afraid.", "That’s not possible.", "I’m not in agreement."],
+  "hateYes": ["Okay, let’s proceed.", "I suppose so.", "Alright, let’s get to it."],
+
+  "outerColor": [0, 132, 255],
+  "innerColor": [255, 255, 255],
+  "favoredReligion": "None",
+  "uniqueName": "Shittim Chest",
+  "uniques": [
+    "[+20 Gold, +20 Culture, +20 Science, +20 Faith] [in all cities]",
+    "[[+50]% Gold, [+50]% Culture, [+50]% Science, [+50]% Faith] [in all cities]",
+		"[Reveals the entire map <upon discovering [Civil Service] technology>]",
+		"[Free Great Person <upon adopting [Freedom] policy>]",
+  ],
+  "cities": [
+    "Schale Federal Academy", "Schale District 1", "Schale District 2", "Schale District 3", "Schale District 4", 
+    "Schale District 5", "Schale District 6", "Schale District 7", "Schale District 8", "Schale District 9", 
+    "Schale District 10", "Schale District 11", "Schale District 12", "Schale District 13", "Schale District 14", 
+    "Schale District 15", "Schale District 16", "Schale District 17", "Schale District 18", "Schale District 19", 
+    "Schale District 20", "Schale District 21", "Schale District 22", "Schale District 23", "Schale District 24", 
+    "Schale District 25", "Schale District 26", "Schale District 27", "Schale District 28", "Schale District 29", 
+    "Schale District 30", "Schale District 31", "Schale District 32", "Schale District 33", "Schale District 34"
+  ],
+  "spyNames": ["Sensei", "Arona", "Plana", "Sora", "Nanagami", "Rin", "Momoka", "Ayumu", "Kaya", "Aoi"]
+}
