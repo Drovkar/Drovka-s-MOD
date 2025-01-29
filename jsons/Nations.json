@@ -30,7 +30,7 @@
   "uniqueName": "Shittim Chest",
   "uniques": [
     "[+20 Gold, +20 Culture, +20 Science, +20 Faith] [in all cities]",
-    "[[+50]% Gold, [+50]% Culture, [+50]% Science, [+50]% Faith] [in all cities]",
+    "[+50% Gold, [+50]% Culture, [+50]% Science, [+50]% Faith] [in all cities]",
     "[Reveals the entire map <upon discovering [Civil Service] technology>]",
     "[Free Great Person <upon adopting [Freedom] policy>]"
   ],
