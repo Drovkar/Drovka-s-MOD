@@ -31,8 +31,8 @@
   "uniques": [
     "[+20 Gold, +20 Culture, +20 Science, +20 Faith] [in all cities]",
     "[[+50]% Gold, [+50]% Culture, [+50]% Science, [+50]% Faith] [in all cities]",
-		"[Reveals the entire map <upon discovering [Civil Service] technology>]",
-		"[Free Great Person <upon adopting [Freedom] policy>]",
+    "[Reveals the entire map <upon discovering [Civil Service] technology>]",
+    "[Free Great Person <upon adopting [Freedom] policy>]"
   ],
   "cities": [
     "Schale Federal Academy", "Schale District 1", "Schale District 2", "Schale District 3", "Schale District 4", 
